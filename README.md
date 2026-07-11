@@ -2,10 +2,11 @@
 
 <div align="center">
 
-### Frontend Developer • React Enthusiast • Fullstack Explorer
+### Frontend-oriented Fullstack Developer
 
-Building modern web experiences with clean architecture, thoughtful UI, and scalable solutions.
+I enjoy transforming ideas into reliable web applications - from polished user interfaces to the logic and systems behind them.
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:grigoryan0326@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/grigoryan0326/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/grigoryan0326)
 
@@ -15,108 +16,50 @@ Building modern web experiences with clean architecture, thoughtful UI, and scal
 
 ## 🧑‍💻 About Me
 
-I'm a **Frontend Developer** with a background in finance and a passion for building products from idea to implementation.
+I'm a developer focused on building complete web solutions - combining strong frontend expertise with backend knowledge to create features end-to-end.
 
-My journey started with curiosity about how websites work, which grew into a deeper interest in software architecture, performance, and fullstack development.
+My background in finance shaped my analytical approach to problem-solving, while software development became my way of creating practical and scalable products. I enjoy not only writing code, but also understanding how different parts of a system work together.
 
-Currently, I focus on:
+I have commercial experience developing web applications in the **iGaming industry**, working with modern frontend technologies, backend integrations, databases, and production applications.
 
-- ⚛️ Building modern interfaces with **React & TypeScript**
-- 🚀 Developing scalable frontend architectures
-- 🔐 Creating authentication flows and API integrations
-- 🛠 Exploring backend development with **Node.js**
-- 🤖 Experimenting with automation and AI-powered tools
+My main focus is frontend development - creating clean interfaces, scalable architectures, and smooth user experiences. At the same time, I actively work with backend technologies to build complete features independently and better understand the systems behind the UI.
 
-Previously, I worked as a Web Developer in the **iGaming industry**, contributing to real-world products and production code.
+### What I work with:
+
+- ⚛️ Modern frontend applications with **React, TypeScript, and Next.js**
+- 🏗️ Scalable component architectures and maintainable codebases
+- 🔐 Authentication systems, API integrations, and user flows
+- ⚙️ Backend services with **Node.js, Express, PHP, and databases**
+- 🤖 Automation tools and AI-assisted development workflows
+
+### Currently improving:
+
+- Advanced **TypeScript** patterns and frontend architecture
+- **Next.js** ecosystem and performance optimization
+- Backend development and system design fundamentals
+- Writing cleaner, more reliable, and maintainable software
 
 ---
 
 ## ⚡ Tech Stack
 
 ### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,html,css,sass,tailwind" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,angular,html,css,sass,tailwind" />
 </p>
 
 ### Backend & Database
+
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql" />
 </p>
 
 ### Tools & Workflow
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,webpack,vite,docker,linux,vscode" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔐 Authentication Module
-A reusable authentication system built with modern web technologies.
-
-**Highlights:**
-- JWT-based authentication
-- Secure API communication
-- User registration and login flows
-- Frontend & backend integration
-
----
-
-### 🤖 Crypto Trading Signal Bot
-
-A Node.js automation project designed to monitor cryptocurrency markets and detect potential trading opportunities.
-
-**Built with:**
-- Node.js
-- WebSocket & REST APIs
-- Telegram Bot API
-- Real-time market analysis
-
----
-
-### 🌐 Frontend Applications
-
-A collection of projects demonstrating:
-
-- Responsive layouts
-- Component-driven development
-- State management
-- API integrations
-- Modern UI approaches
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## 🌱 Currently Exploring
-
-- Advanced TypeScript patterns
-- Next.js architecture
-- Backend development
-- System design fundamentals
-- Performance optimization
-
----
-
-## 💡 Beyond Code
-
-When I'm away from the keyboard:
-
-🎹 I play piano  
-⚡ I enjoy electronics and experimenting with hardware  
-🎮 I explore games and interactive experiences  
-☕ I enjoy learning new technologies and improving my craft
 
 ---
 
@@ -126,6 +69,7 @@ I'm always open to interesting projects, collaborations, and conversations about
 
 📩 Feel free to explore my repositories or reach out:
 
+- ✉️ Email: grigoryan0326@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/grigoryan0326](https://www.linkedin.com/in/grigoryan0326/)
 - 📷 Instagram: [@grigoryan0326](https://www.instagram.com/grigoryan0326)
 
@@ -133,7 +77,7 @@ I'm always open to interesting projects, collaborations, and conversations about
 
 <div align="center">
 
-### "Code is not just about solving problems — it's about creating experiences."
+### "Building software is not only about writing code - it's about understanding the system behind it."
 
 ⭐ Thanks for visiting my profile!
 
